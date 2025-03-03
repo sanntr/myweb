@@ -1,0 +1,8 @@
+# Ignorar entorno virtual dentro de backend
+backend/mivenv/
+
+# Ignorar node_modules dentro de frontend
+frontend/project/node_modules/
+
+# Ignorar archivos de entorno dentro de backend
+backend/project/.env
